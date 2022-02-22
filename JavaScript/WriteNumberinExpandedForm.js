@@ -17,9 +17,9 @@ function expandedForm(num) {
   
        return newString.join(' + ')
   }
-  
-  console.log(expandedForm(12));
-  console.log(expandedForm(42));
-  console.log(expandedForm(70304));
 
+  
+console.log(expandedForm(12));
+console.log(expandedForm(42));
+console.log(expandedForm(70304));
   
