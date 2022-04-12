@@ -47,4 +47,4 @@ function queueTime(customers, n) {
     // Return the till that has the longest wait time
 
     return Math.max(...tills);
-
+  }
